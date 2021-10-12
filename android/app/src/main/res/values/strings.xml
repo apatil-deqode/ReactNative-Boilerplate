@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kinis</string>
+    <string name="server_client_id">546005180650-eb1beqdvc3tf05kuq3srd4anh6mavt8a.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">881884019199805</string>
+    <string name="fb_login_protocol_scheme">fb881884019199805</string>
+</resources>

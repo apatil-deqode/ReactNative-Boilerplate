@@ -1,0 +1,96 @@
+{
+  "en": {
+    "errorMessage": {
+      "api": {
+        "serverError": "The server encountered an internal error and was unable to complete your request. Please try later.",
+        "internetError": "Please check your internet connection or try again later."
+      }
+    },
+    "screens": {
+      "walktrough": {
+        "title1": "Workout anywhere, \nanytime.",
+        "description1": "Search for a variety of classes and book securely.",
+        "title2": "Find the perfect trainer \nfor you.",
+        "description2": "Filter by rating, price, and proximity.",
+        "title3": "Soar past your fitness \ngoals.",
+        "description3": "Search our database of vetted trainers.",
+        "login": "LOGIN",
+        "signUp": "SIGN UP"
+      },
+      "onBording": {
+        "email": "Email",
+        "password": "Password",
+        "emailPH": "Enter your email",
+        "passwordPH": "Enter your password",
+        "login": "LOGIN",
+        "resetPassword": "Reset Password",
+        "needHelpWithYourPassword": "Need help with your password?",
+        "loginWithGoogle": "LOGIN WITH GOOGLE",
+        "loginWithFacebook": "LOGIN WITH FACEBOOK",
+        "signUp": "Sign Up",
+        "chooseStrongPassword": "Choose a strong password",
+        "doYouNeedToCreateAnAccount": "Do you need to create an account?",
+        "createAccount": "CREATE ACCOUNT",
+        "signupWithGoogle": "SIGN UP WITH GOOGLE",
+        "signupWithFacebook": "SIGN UP WITH FACEBOOK",
+        "doYouAlreadyHaveAnAccount": "Do you already have an account?",
+        "loginSmall": "Login",
+        "enterYourEmailAddress": "Enter your email address",
+        "weWillSendSecureVerificationCode": "We will send a secure verification code for you to reset your password.",
+        "sendCode": "SEND CODE",
+        "enterTheSecureVerificationCode": "Enter the secure verification code",
+        "weSentItTo": "We sent it to",
+        "needANewCode": "Need a new code?",
+        "confirm": "CONFIRM",
+        "invaildCode": "OTP should be four digit number.",
+        "wrongCode": "Incorrect code. Please try again.",
+        "newPassword": "New Password",
+        "newPasswordPH": "Choose a strong password",
+        "confirmNewPassword": "Confirm New Password",
+        "confirmNewPasswordPH": "Re-enter your new password",
+        "detailsConfirmed": "Details confirmed",
+        "thankYouForProvidingYourAccountInformation": "Thank you for providing your account information. You may now reset your password.",
+        "resetPasswordCap": "RESET PASSWORD",
+        "successfullyUpdatedPassword": "You’ve successfully updated your password. This change takes place immediately, so you can return to the login screen and use your new password."
+      },
+      "completeProfile": {
+        "getStarted": "GET STARTED",
+        "clientType": "Client",
+        "coachType": "Coach",
+        "centerType": "Center",
+        "clientTypeMsg": "You’re here to work with fitness and wellness coaches.",
+        "coachTypeMsg": "You’re here to build a clientele and provide classes.",
+        "centerTypeMsg": "You’re here to represent a physical training location."
+      },
+      "userSelection": {
+        "termsConditions": "Terms & Conditions",
+        "readAndAccept": "Read and accept our terms for using the platform.",
+        "personalInfo": "Personal Info",
+        "tellUsABitAboutYourself": "Tell us a bit about yourself.",
+        "trainerInfo": "Trainer Info",
+        "tellUsABitAboutYourTraining": "Tell us a bit about your training background.",
+        "verification": "Verification",
+        "provideYourPhotoID": "Provide your photo ID.",
+        "licenseNumber": "License Number",
+        "licenseNumberPH": "Enter the License Number",
+        "expirationDate": "Expiration Date",
+        "expirationDatePH": "License Expiration Date",
+        "uploadDocumentation": "UPLOAD DOCUMENTATION",
+        "certifications": "Certifications",
+        "provideYourCertification": "Provide your certification details.",
+        "scialLinks": "Social Links",
+        "thisWillHelpClientsFindYou": "This will help clients find you on social media.",
+        "centerInfo": "Center Info",
+        "tellUsABitAboutYourCenter": "Tell us a bit about your center.",
+        "clientMsg": "You’re signing up as a Client, and we’ll need you to provide us with some information before you can book sessions with Coaches or Centers.",
+        "coachMsg": "You’re signing up as a Coach, so you’ll need to provide us with some information before your profile can be verified and published to our platform.",
+        "centerMsg": "You’re signing up as a Center, so you’ll need to provide us with some information before your profile can be verified and published to our platform.",
+        "letsGo": "LET’S GO!"
+      },
+      "settings": {
+        "changePassword": "CHANGE PASSWORD",
+        "changePasswordDone": "You’ve successfully updated your password. This change takes place immediately."
+      }
+    }
+  }
+}
